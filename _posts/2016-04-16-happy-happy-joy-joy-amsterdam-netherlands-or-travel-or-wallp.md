@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.wallpaper.com'
-  name: 'Wallpaper*'
-  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
-  domain: www.wallpaper.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy'
+inLanguage: en
+starred: false
 keywords:
   - jasper
   - dining
@@ -18,19 +17,22 @@ keywords:
   - penang
   - on-table
 description: "Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies."
-inLanguage: en
+datePublished: '2016-04-16T19:14:35.656Z'
+dateModified: '2016-04-16T19:14:29.960Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy'
-title: 'Happy Happy Joy Joy, Amsterdam, Netherlands | Travel | Wallpaper* Magazine'
-datePublished: '2016-04-16T00:50:13.054Z'
-dateModified: '2016-04-16T00:35:29.385Z'
+title: 'Happy Happy Joy Joy, Amsterdam, Netherlands '
 sourcePath: _posts/2016-04-16-happy-happy-joy-joy-amsterdam-netherlands-or-travel-or-wallp.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'Wallpaper*'
+  domain: www.wallpaper.com
+  url: 'http://www.wallpaper.com'
+  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Happy Happy Joy Joy, Amsterdam, Netherlands | Travel | Wallpaper* Magazine</h1><p>Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies.</p><img src="http://cdn.wallpaper.com/main/galleries/15/09/hhjj-1.jpg" /></article>
+<article style=""><h1>Happy Happy Joy Joy, Amsterdam, Netherlands</h1><p>Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60a826db0cfed461ded0078091f5410155392471.jpg" /></article>
