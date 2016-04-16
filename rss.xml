@@ -4,8 +4,15 @@
         <description><![CDATA[FoodandDrink]]></description>
         <link>https://thegrid.ai/foodanddrink/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 02:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 02:33:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foodanddrink/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bon Marché, San Francisco, USA | Travel | Wallpaper* Magazine]]></title>
+            <description><![CDATA[<article><h1>Bon Marché, San Francisco, USA | Travel | Wallpaper* Magazine</h1><p>Among the eateries revitalising San Francisco's once-gritty Mid-Market neighborhood into the city's most buzzy food and drinks corridor is Bon Marché, a sunny Californian take on Le Marais. This 7500-square-foot space combines a café, a brewery, an oyster bar, a full-service restaurant, and even a flower shop that doubles as a stage for live jazz at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f67536b56e8543128b8b1122f673dc5d50a01f50.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/travel/usa/san-francisco/restaurants/bon-march</link>
+            <guid isPermaLink="false">deda62cb-0ff9-4c1a-8646-572923261d26</guid>
+            <pubDate>Sat, 16 Apr 2016 02:31:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Fresh Take On Coffee T-Shirts]]></title>
             <description><![CDATA[<article><h1>A Fresh Take On Coffee T-Shirts</h1><p>The coffee shop has always been one of the great incubators for artist-types. It's a home base for creative nomads, where those not shackled to desk jobs go to sketch, write, or just ideate into leather-bound notepads, propped up only by a cup of coffee and, depending on your location and era, a pack of cigarettes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99ea5a102a376f1a2a0d9187d3764592ee86f921.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy</link>
             <guid isPermaLink="false">7bf76cc3-af0d-4265-a625-ecef3434e71a</guid>
             <pubDate>Sat, 16 Apr 2016 00:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treehouse Chocolate's Four Drinking Chocolates]]></title>
-            <description><![CDATA[<article><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/food-drink/treehouse-chocolate-portland-drinking-chocolate</link>
-            <guid isPermaLink="false">4f22320a-ee36-4a38-bbe0-275d0469bfbd</guid>
-            <pubDate>Sat, 16 Apr 2016 00:50:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
