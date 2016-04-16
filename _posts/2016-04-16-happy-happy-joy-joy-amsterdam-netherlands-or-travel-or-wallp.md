@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - jasper
   - dining
@@ -17,8 +17,8 @@ keywords:
   - penang
   - on-table
 description: "Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies."
-datePublished: '2016-04-16T19:14:35.656Z'
-dateModified: '2016-04-16T19:14:29.960Z'
+datePublished: '2016-04-16T19:36:31.372Z'
+dateModified: '2016-04-16T19:36:24.897Z'
 author: []
 related: []
 app_links: []
