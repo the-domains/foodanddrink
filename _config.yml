@@ -1,6 +1,6 @@
 name: FoodandDrink
 favicon: null
-layout_spectrum: 0.4282816695049405
+layout_spectrum: 0.05694
 typography_spectrum: 0.8980307404417545
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5178112096618861
-  lightness: 0.30740053695626557
-  saturation: 0.3536092347931117
-  rhythmicContrast: 0.6219832592178136
+    - '#fafafa'
+    - '#4d466a'
+    - '#f2a9a3'
+    - '#000000'
+    - '#9591a4'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
