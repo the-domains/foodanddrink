@@ -4,8 +4,15 @@
         <description><![CDATA[FoodandDrink]]></description>
         <link>https://thegrid.ai/foodanddrink/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 00:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 01:06:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foodanddrink/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Food & Beer (Pre-order) | Food & Cookery | Phaidon Store]]></title>
+            <description><![CDATA[<article><h1>Food & Beer (Pre-order) | Food & Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31575c7cfa1e804906592cd13d57025c9b5bcd4a.jpg"></article>]]></description>
+            <link>http://www.phaidon.com/store/food-cook/food-and-beer-9780714871059/</link>
+            <guid isPermaLink="false">917fad8b-b2b0-4dac-9b1f-da1c015bf0a3</guid>
+            <pubDate>Sat, 16 Apr 2016 01:06:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Timbuk2 + Blue Bottle's Sabbatical Travel Kit]]></title>
             <description><![CDATA[<article><h1>Timbuk2 + Blue Bottle's Sabbatical Travel Kit</h1><p>If the recent buyouts of Intelligentsia and Stumptown are any indication, the growing popularity of craft coffee shows no signs of slowing down. While single origin pour-overs are now commonplace in many coffeeshops, sometimes when you're off the beaten path, your morning cup of coffee is harder to perfect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba000655e6b2a554855a55a3bfaa786ed97ccb09.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/grand-caf-de-tropen</link>
             <guid isPermaLink="false">2815e228-c9ac-4cc5-abd1-c12eb81affa4</guid>
             <pubDate>Sat, 16 Apr 2016 00:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bistro Proti Proudu, Prague, Czech Republic | Travel | Wallpaper* Magazine]]></title>
-            <description><![CDATA[<article><h1>Bistro Proti Proudu, Prague, Czech Republic | Travel | Wallpaper* Magazine</h1><p>With an ever-growing number of cool cafés, wine bars and shops, Prague's Karlín district is fast becoming a haven for the hip set. Its latest arrival, is Bistro Proti, a cosy corner eatery with a sleek interior inspired by the neighbourhood's most significant historical figure, engineer František Križík.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1fd22919c3e43a0e413c38e19bb8ca598161339.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/travel/czech-republic/prague/restaurants/bistro-proti-proudu</link>
-            <guid isPermaLink="false">a643d4fa-17f9-485b-9c76-4a7873d68183</guid>
-            <pubDate>Sat, 16 Apr 2016 00:40:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
