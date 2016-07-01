@@ -2,6 +2,7 @@ name: FoodandDrink
 favicon: null
 layout_spectrum: 0.05694
 typography_spectrum: 0.8980307404417545
+style: the-composer
 cta:
   domain: null
   bucket: null
