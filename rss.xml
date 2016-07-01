@@ -4,7 +4,7 @@
         <description><![CDATA[FoodandDrink]]></description>
         <link>https://thegrid.ai/foodanddrink/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 03:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 03:02:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foodanddrink/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Happy Happy Joy Joy, Amsterdam, Netherlands]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy</link>
             <guid isPermaLink="false">7bf76cc3-af0d-4265-a625-ecef3434e71a</guid>
             <pubDate>Sat, 16 Apr 2016 19:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bon Marché, San Francisco, USA.]]></title>
+            <description><![CDATA[<article><h1>Bon Marché, San Francisco, USA.</h1><p>Among the eateries revitalising San Francisco's once-gritty Mid-Market neighborhood into the city's most buzzy food and drinks corridor is Bon Marché, a sunny Californian take on Le Marais. This 7500-square-foot space combines a café, a brewery, an oyster bar, a full-service restaurant, and even a flower shop that doubles as a stage for live jazz at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f67536b56e8543128b8b1122f673dc5d50a01f50.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/travel/usa/san-francisco/restaurants/bon-march</link>
+            <guid isPermaLink="false">deda62cb-0ff9-4c1a-8646-572923261d26</guid>
+            <pubDate>Fri, 01 Jul 2016 03:02:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discussing Coffee with Marco Lavazza at the US Open]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wallpaper.com/lifestyle/san-francisco-startup-prepd-pack-reinvents-the-lunchbox</link>
             <guid isPermaLink="false">6a5ec163-780e-4104-ba72-eb250409ca25</guid>
             <pubDate>Sat, 16 Apr 2016 19:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grand Café de Tropen, Amsterdam, Netherlands]]></title>
-            <description><![CDATA[<article><h1>Grand Café de Tropen, Amsterdam, Netherlands</h1><p>To be frank, Amsterdam's Koninklijk Instituut voor de Tropen, more informally known as the Royal Tropical Institute, is not the first place you'd think of for a lunch of pulled chicken marinated in hoi-sin and star anise. The stately Dutch Gothic Revival pile was designed by J.J.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/167fcc4d66d410506a1edb29bd3162345bc27b71.jpg"></article>]]></description>
-            <link>http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/grand-caf-de-tropen</link>
-            <guid isPermaLink="false">2815e228-c9ac-4cc5-abd1-c12eb81affa4</guid>
-            <pubDate>Sat, 16 Apr 2016 19:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
