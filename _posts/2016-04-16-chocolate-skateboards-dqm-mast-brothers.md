@@ -1,11 +1,8 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
+datePublished: '2016-07-01T03:01:40.599Z'
+sourcePath: _posts/2016-04-16-chocolate-skateboards-dqm-mast-brothers.md
+isBasedOnUrl: >-
+  http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar
 keywords:
   - chocolate
   - dqm
@@ -17,15 +14,24 @@ keywords:
   - likewise-though
   - in-store
   - cacao
-description: "Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing."
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://www.coolhunting.com/food-drink/chocolate-skateboards-dqm-mast-brothers-bar'
+related: []
+author: []
+dateModified: '2016-07-01T03:01:17.839Z'
 title: Chocolate Skateboards + DQM + Mast Brothers
-datePublished: '2016-04-16T02:45:26.679Z'
-dateModified: '2016-04-16T02:44:35.902Z'
-sourcePath: _posts/2016-04-16-chocolate-skateboards-dqm-mast-brothers.md
-published: true
+app_links: []
+publisher:
+  url: 'http://www.coolhunting.com'
+  name: Cool Hunting
+  favicon: 'http://assets.coolhunting.com/favicon.ico'
+  domain: www.coolhunting.com
+description: >-
+  Since its humble beginnings as a sister company to Mike Carroll and Rick
+  Howard's Girl Skateboards, Chocolate has grown into one of the more
+  influential brands in skateboarding's surrounding culture. Now 20 years later,
+  with legends like Gino Iannucci and young gun Elijah Berle on the roster, the
+  company shows no signs of slowing.
+inLanguage: en
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -33,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Chocolate Skateboards + DQM + Mast Brothers</h1><p>Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing.</p><img src="http://assets.coolhunting.com/coolhunting/2014/09/large_Mast-Bros-x-DQM-x-Chocolate-thumb.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09adb57c67d7d90ccdac72399f593aaf7970d3c7.jpg" /><h1>Chocolate Skateboards + DQM + Mast Brothers</h1><p>Since its humble beginnings as a sister company to Mike Carroll and Rick Howard's Girl Skateboards, Chocolate has grown into one of the more influential brands in skateboarding's surrounding culture. Now 20 years later, with legends like Gino Iannucci and young gun Elijah Berle on the roster, the company shows no signs of slowing.</p></article>
