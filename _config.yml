@@ -1,20 +1,4 @@
-name: FoodandDrink
-favicon: null
-layout_spectrum: 0.05694
 typography_spectrum: 0.8980307404417545
-style: the-composer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d6e1e2'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.05694
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FoodandDrink
+cta:
+  domain: null
+  bucket: null
+  version: null
+style: the-composer
+favicon: null
 purpose: []
